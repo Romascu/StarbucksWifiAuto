@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_12e45cd3bce15fd87d1333e71be1e9e1a44e7444\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.1.0_88a842f784f51ac9223a98a57533e6fc52cf31e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.1.0_18621ef60e55367f8a46e72feaa410e268fd720b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b45ec5819114b345b7cc9290b5c38ba2e6417337">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f332e6221b2b0e6bc41897303f466b41b32de9ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="efc1b885646523d7507dfa765f96787198d7d8bd">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f332e6221b2b0e6bc41897303f466b41b32de9ae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.0_4b580d819652509db94cc8c7c76b56718ba36897\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="38a1b7930c145a327bbdd11d83aa265f13e3d1e6">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_918f6a82c5cbc80510493a0fbbb061253b88e760\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-appindexing-8.1.0_88a842f784f51ac9223a98a57533e6fc52cf31e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0_12e45cd3bce15fd87d1333e71be1e9e1a44e7444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.0_4b580d819652509db94cc8c7c76b56718ba36897.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c78ac8c94452761f913e258d594ad63bff98523c">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_918f6a82c5cbc80510493a0fbbb061253b88e760\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.1.0_ace2bd414569217b3e3094590997f395d715b230\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\support-annotations-22.2.0_924fad94628ff64d310a21aad1e19990373caeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.1.0_ace2bd414569217b3e3094590997f395d715b230.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\RandomSSD\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.0_924fad94628ff64d310a21aad1e19990373caeb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="C:\Users\RandomSSD\AndroidStudioProjects\sbautologin\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.1.0_18621ef60e55367f8a46e72feaa410e268fd720b.jar" />
+    </item>
+
+</items>

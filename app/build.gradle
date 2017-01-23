@@ -1,0 +1,25 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.0.1"
+
+    defaultConfig {
+        applicationId "com.oss.starbuckslogin"
+        minSdkVersion 14
+        targetSdkVersion 21
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    dependencies {
+
+        compile 'com.google.android.gms:play-services-ads:8.1.0'
+    }
+
+}

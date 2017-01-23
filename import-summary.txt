@@ -1,0 +1,163 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .hgignore
+* .hgtags
+* etc\
+* etc\icon.png
+* etc\keystore
+* etc\sbautologin-featured.png
+* etc\sbautologin-landscape.png
+* etc\sbautologin.png
+* sbautologin\
+* sbautologin\.classpath
+* sbautologin\.hg\
+* sbautologin\.hg\00changelog.i
+* sbautologin\.hg\branch
+* sbautologin\.hg\cache\
+* sbautologin\.hg\cache\branchheads
+* sbautologin\.hg\cache\tags
+* sbautologin\.hg\dirstate
+* sbautologin\.hg\hgrc
+* sbautologin\.hg\requires
+* sbautologin\.hg\store\
+* sbautologin\.hg\store\00changelog.i
+* sbautologin\.hg\store\00manifest.i
+* sbautologin\.hg\store\data\
+* sbautologin\.hg\store\data\_android_manifest.xml.i
+* sbautologin\.hg\store\data\bin\
+* sbautologin\.hg\store\data\bin\classes.dex.i
+* sbautologin\.hg\store\data\bin\resources.ap__.i
+* sbautologin\.hg\store\data\bin\sbautologin.apk.i
+* sbautologin\.hg\store\data\default.properties.i
+* sbautologin\.hg\store\data\etc\
+* sbautologin\.hg\store\data\etc\icon.png.i
+* sbautologin\.hg\store\data\etc\keystore.i
+* sbautologin\.hg\store\data\etc\sbautologin-featured.png.i
+* sbautologin\.hg\store\data\etc\sbautologin-landscape.png.i
+* sbautologin\.hg\store\data\etc\sbautologin.png.i
+* sbautologin\.hg\store\data\proguard.cfg.i
+* sbautologin\.hg\store\data\project.properties.i
+* sbautologin\.hg\store\data\res\
+* sbautologin\.hg\store\data\res\drawable-hdpi\
+* sbautologin\.hg\store\data\res\drawable-hdpi\icon.png.i
+* sbautologin\.hg\store\data\res\drawable-ldpi\
+* sbautologin\.hg\store\data\res\drawable-ldpi\icon.png.i
+* sbautologin\.hg\store\data\res\drawable-mdpi\
+* sbautologin\.hg\store\data\res\drawable-mdpi\icon.png.i
+* sbautologin\.hg\store\data\res\layout\
+* sbautologin\.hg\store\data\res\layout\main.xml.i
+* sbautologin\.hg\store\data\res\layout\settings.xml.i
+* sbautologin\.hg\store\data\res\menu\
+* sbautologin\.hg\store\data\res\menu\main.xml.i
+* sbautologin\.hg\store\data\res\values\
+* sbautologin\.hg\store\data\res\values\strings.xml.i
+* sbautologin\.hg\store\data\src\
+* sbautologin\.hg\store\data\src\org\
+* sbautologin\.hg\store\data\src\org\crocodile\
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_constants.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_html_form.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_html_form_test.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_invalid_form_exception.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_main_activity.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_net_status_broadcast_receiver.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_sb_login_service.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_settings_activity.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_starbucks.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\_starbucks_test.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\db\
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\db\_d_b_accesser.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\db\_d_b_creator.java.i
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\model\
+* sbautologin\.hg\store\data\src\org\crocodile\sbautologin\model\_history_item.java.i
+* sbautologin\.hg\store\data\~2eclasspath.i
+* sbautologin\.hg\store\data\~2ehgignore.i
+* sbautologin\.hg\store\data\~2ehgtags.i
+* sbautologin\.hg\store\data\~2eproject.i
+* sbautologin\.hg\store\data\~2esettings\
+* sbautologin\.hg\store\data\~2esettings\org.eclipse.jdt.core.prefs.i
+* sbautologin\.hg\store\fncache
+* sbautologin\.hg\store\phaseroots
+* sbautologin\.hg\store\undo
+* sbautologin\.hg\store\undo.phaseroots
+* sbautologin\.hg\undo.bookmarks
+* sbautologin\.hg\undo.branch
+* sbautologin\.hg\undo.desc
+* sbautologin\.hg\undo.dirstate
+* sbautologin\.hgignore
+* sbautologin\.hgtags
+* sbautologin\.project
+* sbautologin\.settings\
+* sbautologin\.settings\org.eclipse.jdt.core.prefs
+* sbautologin\AndroidManifest.xml
+* sbautologin\etc\
+* sbautologin\etc\icon.png
+* sbautologin\etc\keystore
+* sbautologin\etc\sbautologin-featured.png
+* sbautologin\etc\sbautologin-landscape.png
+* sbautologin\etc\sbautologin.png
+* sbautologin\project.properties
+* sbautologin\res\
+* sbautologin\res\drawable-hdpi\
+* sbautologin\res\drawable-hdpi\icon.png
+* sbautologin\res\drawable-ldpi\
+* sbautologin\res\drawable-ldpi\icon.png
+* sbautologin\res\drawable-mdpi\
+* sbautologin\res\drawable-mdpi\icon.png
+* sbautologin\res\layout\
+* sbautologin\res\layout\main.xml
+* sbautologin\res\layout\settings.xml
+* sbautologin\res\menu\
+* sbautologin\res\menu\main.xml
+* sbautologin\res\values\
+* sbautologin\res\values\strings.xml
+* sbautologin\src\
+* sbautologin\src\org\
+* sbautologin\src\org\crocodile\
+* sbautologin\src\org\crocodile\sbautologin\
+* sbautologin\src\org\crocodile\sbautologin\Constants.java
+* sbautologin\src\org\crocodile\sbautologin\HtmlForm.java
+* sbautologin\src\org\crocodile\sbautologin\HtmlFormTest.java
+* sbautologin\src\org\crocodile\sbautologin\InvalidFormException.java
+* sbautologin\src\org\crocodile\sbautologin\MainActivity.java
+* sbautologin\src\org\crocodile\sbautologin\NetStatusBroadcastReceiver.java
+* sbautologin\src\org\crocodile\sbautologin\SettingsActivity.java
+* sbautologin\src\org\crocodile\sbautologin\Starbucks.java
+* sbautologin\src\org\crocodile\sbautologin\StarbucksTest.java
+* sbautologin\src\org\crocodile\sbautologin\db\
+* sbautologin\src\org\crocodile\sbautologin\db\DBAccesser.java
+* sbautologin\src\org\crocodile\sbautologin\db\DBCreator.java
+* sbautologin\src\org\crocodile\sbautologin\model\
+* sbautologin\src\org\crocodile\sbautologin\model\HistoryItem.java
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)
